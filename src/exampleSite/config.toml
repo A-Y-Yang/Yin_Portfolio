@@ -1,5 +1,5 @@
 title = "Yin's Blog"
-baseURL = "https://https://a-y-yang.github.io/Yin_Portfolio/"
+baseURL = "https://a-y-yang.github.io/Yin_Portfolio/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
